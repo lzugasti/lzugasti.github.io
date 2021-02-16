@@ -2,17 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# About Me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My name is Leopoldo Zugasti and I am from Buenos Aires, Argentina, currently living in Montreal, Canada. I am currently studying at McGill University.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I love chess, travelling, hiking, golf.
 
 ## Header 2
 
