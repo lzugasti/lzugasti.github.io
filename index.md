@@ -10,10 +10,13 @@ My name is Leopoldo Zugasti and I am from Buenos Aires, Argentina, currently liv
 
 I love chess, travelling, hiking, golf.
 
-## Education
+# Education
 
-<b>McGill university</b>
+### McGill university (2019-2022)
+Bachelor Computer Science Major and Mathematis Minor (CGPA 4.0/4.0)
 
+### University of Toronto (2018-2019)
+Bachelor Computer Science (CGPA 3.8/4.0)
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
