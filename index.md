@@ -2,6 +2,12 @@
 layout: default
 ---
 
+[Link to another page](./another-page.html).
+
+---
+layout: default
+---
+
 # About Me
 
 My name is Leopoldo Zugasti and I am from Buenos Aires, Argentina, currently living in Montreal, Canada and studying at McGill University.
@@ -33,9 +39,9 @@ Computer Science Technology, Won Award for highest overall average in the progra
 * Reads/Writes P2 and P5 PGM files from ASCII. Provides pixel access, contrast inversion and linear contrast stretching.
 
 ### A Few Games
-* Galactic Snake (https://gitlab.com/ZugastLeo/ball-holes-games/) (Coded in JS, p5.js)
+* Galactic Snake [GitLab](https://gitlab.com/ZugastLeo/ball-holes-games/) (Coded in JS, p5.js)
 * Asteroid Drift (Coded in C#, Unity) - Learnt about Computer Graphics, Shaders, Collision Detection
-* Sudoku Solver (https://gitlab.com/ZugastLeo/sudokusolver/)
+* Sudoku Solver [GitLab](https://gitlab.com/ZugastLeo/sudokusolver/)
 
 # Skills and Interests
 ### Languages
