@@ -23,12 +23,15 @@ Computer Science Technology, Won Award for highest overall average in the progra
 ### Vehicle Onboard Computer (ECU) modification:
 * Using a bluetooth connection between the onboard vehicle's computer and an Arduino board, led lights throughout the car create a light show depending on the current speed.
 * Coded in C/C++
+
 ### Operating System Simulation:
 * OS does Round-Robin scheduling and simulates a kernel, shell, RAM and CPU.
 * Coded in C
+
 ### MIPS Image Processing:
 * Coded in MIPS
 * Reads/Writes P2 and P5 PGM files from ASCII. Provides pixel access, contrast inversion and linear contrast stretching.
+
 ### A Few Games
 * Galactic Snake (https://gitlab.com/ZugastLeo/ball-holes-games/) (Coded in JS, p5.js)
 * Asteroid Drift (Coded in C#, Unity) - Learnt about Computer Graphics, Shaders, Collision Detection
