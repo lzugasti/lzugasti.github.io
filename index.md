@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
-
 # About Me
 
 My name is Leopoldo Zugasti and I am from Buenos Aires, Argentina, currently living in Montreal, Canada and studying at McGill University.
@@ -17,11 +15,28 @@ Bachelor Computer Science Major and Mathematis Minor (CGPA 4.0/4.0)
 
 ### University of Toronto (2018-2019)
 Bachelor Computer Science (CGPA 3.8/4.0)
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Dawson College (2016-2018)
+Computer Science Technology, Won Award for highest overall average in the program. (RScore 36.7)
+
+# Projects
+### Vehicle Onboard Computer (ECU) modification:
+* Using a bluetooth connection between the onboard vehicle's computer and an Arduino board, led lights throughout the car create a light show depending on the current speed.
+* Coded in C/C++
+### Operating System Simulation:
+* OS does Round-Robin scheduling and simulates a kernel, shell, RAM and CPU.
+* Coded in C
+### MIPS Image Processing:
+* Coded in MIPS
+* Reads/Writes P2 and P5 PGM files from ASCII. Provides pixel access, contrast inversion and linear contrast stretching.
+### A Few Games
+* Galactic Snake (https://gitlab.com/ZugastLeo/ball-holes-games/) (Coded in JS, p5.js)
+* Asteroid Drift (Coded in C#, Unity) - Learnt about Computer Graphics, Shaders, Collision Detection
+* Sudoku Solver (https://gitlab.com/ZugastLeo/sudokusolver/)
+
+# Skills and Interests
+### Languages
+
 
 ```js
 // Javascript code with syntax highlighting.
