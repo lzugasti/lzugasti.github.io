@@ -43,8 +43,18 @@ Computer Science Technology, Won Award for highest overall average in the progra
 * Asteroid Drift (Coded in C#, Unity) - Learnt about Computer Graphics, Shaders, Collision Detection
 * Sudoku Solver [GitLab](https://gitlab.com/ZugastLeo/sudokusolver/)
 
-# Skills and Interests
-### Languages
+# Skills
+### Programming Languages 
+* <b>Languages:</b> C\C++, C#, Java, JavaScript, Python, OCaml, PHP
+* <b>Databases:</b> SQL
+* <b>GPU:</b> GLSL, OpenCL
+* <b>CLI:</b> Bash, Windows Batch
+* <b>Assembly:</b> MIPS
+* <b>Others:</b> HTML,CSS
+
+
+### Human Languages
+English, French, Spanish
 
 
 ```js
