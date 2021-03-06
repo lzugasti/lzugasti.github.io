@@ -6,11 +6,13 @@ layout: default
 
 # About Me
 
-My name is Leopoldo Zugasti and I am from Buenos Aires, Argentina, currently living in Montreal, Canada. I am currently studying at McGill University.
+My name is Leopoldo Zugasti and I am from Buenos Aires, Argentina, currently living in Montreal, Canada and studying at McGill University.
 
 I love chess, travelling, hiking, golf.
 
-## Header 2
+## Education
+
+<b>McGill university</b>
 
 > This is a blockquote following a header.
 >
