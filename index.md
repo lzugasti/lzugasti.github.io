@@ -5,7 +5,7 @@ layout: default
 # Graphics Engineering Projects
 
 ### Ray Traced and Ray Marched rendering
-![Ray Tracing Image](/lzugasti.github.io/assets/img/10.png)
+![Ray Tracing Image](/assets/img/10.png)
 * Coded in OpenGL and C++
 * Path Tracing used for rendering polygons
 * Ray Marching used for rendering Metaballs (The weird jelly beans in the picture)
