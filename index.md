@@ -3,22 +3,33 @@ layout: default
 ---
 
 # Projects
+  
+### 1. Heat Based Distance Stripes
+[View on Github]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VCQa3BWtoK0?si=qbhKsZGd1XXO95Lm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+* Based on this [paper](https://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/paperCACM.pdf)
+* Draws distance stripes from heat source on mesh.
+* Coded in OpenGL and C++ 
 
-### Ray Traced and Ray Marched rendering:
+
+### 2. Ray Traced and Ray Marched rendering:
+[View on Github]()
 ![Ray Tracing Image](/assets/img/10.png)
 * Coded in OpenGL and C++
 * Path Tracing used for rendering polygons
 * Ray Marching used for rendering Metaballs (The weird jelly beans in the picture)
 
-### Explosions and Impulse Based collisions in 2D
+### 3. Voxel Based Explosions and Impulse Based collisions
 [View on GitHub](https://github.com/lzugasti/COMP559FinalProject)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3vPSb2F38A?si=wwB601BOVGagRkEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * Uses impulse to resolve collisions
 * Voxels based approach to handle effect of explosions
 * Coded in OpenGL and C++
-  
-### 
+
+### 4. Springs & Collision Detection
+[View on Github]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5cjRwsHH93k?si=1QsPsG81xKOsTHxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### MIPS Image Processing:
 * Coded in MIPS
