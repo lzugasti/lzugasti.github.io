@@ -2,19 +2,23 @@
 layout: default
 ---
 
-# Graphics Engineering Projects
+# Projects
 
-### Ray Traced and Ray Marched rendering
+### Ray Traced and Ray Marched rendering:
 ![Ray Tracing Image](/assets/img/10.png)
 * Coded in OpenGL and C++
 * Path Tracing used for rendering polygons
 * Ray Marching used for rendering Metaballs (The weird jelly beans in the picture)
-* [GitHub](https://github.com/lzugasti/COMP559FinalProject)
 
-# Physics Simulation Projects
+### Explosions and Impulse Based collisions in 2D
+[View on GitHub](https://github.com/lzugasti/COMP559FinalProject)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e3vPSb2F38A?si=wwB601BOVGagRkEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-# More Projects
+* Uses impulse to resolve collisions
+* Voxels based approach to handle effect of explosions
+* Coded in OpenGL and C++
+  
+### 
 
 ### MIPS Image Processing:
 * Coded in MIPS
