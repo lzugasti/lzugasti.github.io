@@ -71,7 +71,7 @@ layout: default
 * <b>CLI:</b> Bash, Windows Batch
 * <b>Assembly:</b> MIPS
 * <b>Others:</b> Unity, Unreal
-* 
+
 ### Human Languages
 English, French, Spanish
 
