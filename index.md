@@ -5,7 +5,7 @@ layout: default
 # Projects
   
 ### 1. Heat Based Distance Stripes
-[View on Github]()
+[View on Github](https://github.com/lzugasti/heat-based-distance-stripes)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VCQa3BWtoK0?si=qbhKsZGd1XXO95Lm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 * Based on this [paper](https://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/paperCACM.pdf)
 * Draws distance stripes from heat source on mesh.
@@ -28,23 +28,34 @@ layout: default
 * Coded in OpenGL and C++
 
 ### 4. Springs & Collision Detection
-[View on Github]()
+[View on Github](https://github.com/lzugasti/springs-collisions)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cjRwsHH93k?si=1QsPsG81xKOsTHxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### MIPS Image Processing:
+* Impulse based collision response
+* And ability to change to different integration techniques
+
+### 5. Fluid Simulation
+[View on Github](https://github.com/lzugasti/fluid-simulation)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wsMiVmIc8KM?si=ElzQM5-HrQ9Q2W1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* Coded in OpenGL and C++
+* Basic implementation following Navier-Stokes equation
+
+### 6. MIPS Image Processing:
 * Coded in MIPS
 * Reads/Writes P2 and P5 PGM files from ASCII. Provides pixel access, contrast inversion and linear contrast stretching.
 
-### Vehicle Onboard Computer (ECU) modification:
+### 7. Vehicle Onboard Computer (ECU) modification:
 * Using a bluetooth connection between the onboard vehicle's computer and an Arduino board, led lights throughout the car create a light show depending on the current speed.
 * Coded in C/C++
 
-### A Few Games
+### 8. A Few Games
+* Kemps [Steam](https://store.steampowered.com/app/2246010/Kemps/)
 * Galactic Snake [GitLab](https://gitlab.com/ZugastLeo/ball-holes-games/) (Coded in JS, p5.js)
 * Asteroid Drift (Coded in C#, Unity) - Learnt about Computer Graphics, Shaders, Collision Detection
 * Sudoku Solver [GitLab](https://gitlab.com/ZugastLeo/sudokusolver/)
 
-### Operating System Simulation:
+### 9. Operating System Simulation:
 * OS does Round-Robin scheduling and simulates a kernel, shell, RAM and CPU.
 * Coded in C
 
@@ -52,12 +63,17 @@ layout: default
 
 # Skills
 ### Programming Languages 
-* <b>Languages:</b> C\C++, C#, Java, JavaScript, Python, OCaml, PHP
-* <b>Databases:</b> SQL
-* <b>GPU:</b> GLSL, OpenCL
+* <b>Languages:</b> C\C++, C#, Java, JavaScript, Python, PHP, OCaml
+* <b>Databases:</b> MySQL, PostgreSQL, sqlite
+* <b>Frontend Frameworks:</b> React, Angular (a bit of Vue and Svelte)
+* <b>Backend Frameworks:</b> Laravel, Django, Express.js
+* <b>GPU:</b> HLSL, GLSL, OpenGL
 * <b>CLI:</b> Bash, Windows Batch
 * <b>Assembly:</b> MIPS
-* <b>Others:</b> HTML,CSS
+* <b>Others:</b> Unity, Unreal
+* 
+### Human Languages
+English, French, Spanish
 
 
 
@@ -73,6 +89,3 @@ Bachelor Computer Science (CGPA 3.8/4.0)
 Computer Science Technology, Won Award for highest overall average in the program. (RScore 36.7)
 
 
-
-### Human Languages
-English, French, Spanish
