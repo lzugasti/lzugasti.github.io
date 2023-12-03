@@ -7,39 +7,39 @@ layout: default
 ### 1. Heat Based Distance Stripes
 [View on Github](https://github.com/lzugasti/heat-based-distance-stripes)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VCQa3BWtoK0?si=qbhKsZGd1XXO95Lm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-* Based on this [paper](https://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/paperCACM.pdf)
-* Draws distance stripes from heat source on mesh.
-* Coded in OpenGL and C++ 
+
+* Implemented the Heat Method for Distance Computation found in this [paper](https://www.cs.cmu.edu/~kmcrane/Projects/HeatMethod/paperCACM.pdf) to draw distance stripes from heat source on mesh.
+* Coded in OpenGL and C++.
 
 
 ### 2. Ray Traced and Ray Marched rendering:
 [View on Github]()
 ![Ray Tracing Image](/assets/img/10.png)
-* Coded in OpenGL and C++
-* Path Tracing used for rendering polygons
-* Ray Marching used for rendering Metaballs (The weird jelly beans in the picture)
+* Implemented Path Tracing to render polygons.
+* Implemented Ray Marching to render Metaballs (The weird jelly beans in the picture).
+* Coded in OpenGL and C++.
 
 ### 3. Voxel Based Explosions and Impulse Based collisions
 [View on GitHub](https://github.com/lzugasti/COMP559FinalProject)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e3vPSb2F38A?si=wwB601BOVGagRkEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-* Uses impulse to resolve collisions
-* Voxels based approach to handle effect of explosions
-* Coded in OpenGL and C++
+* Implemented an impulse based approach to resolve collisions.
+* Used a Voxel based approach to handle effect of explosions.
+* Coded in OpenGL and C++.
 
 ### 4. Springs & Collision Detection
 [View on Github](https://github.com/lzugasti/springs-collisions)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cjRwsHH93k?si=1QsPsG81xKOsTHxc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-* Impulse based collision response
-* And ability to change to different integration techniques
+* Implemented an Impulse based collision response.
+* Added the ability to change between different integration techniques on the fly.
 
 ### 5. Fluid Simulation
 [View on Github](https://github.com/lzugasti/fluid-simulation)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wsMiVmIc8KM?si=ElzQM5-HrQ9Q2W1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+* Basic implementation following Navier-Stokes equation.
 * Coded in OpenGL and C++
-* Basic implementation following Navier-Stokes equation
 
 ### 6. MIPS Image Processing:
 * Coded in MIPS
